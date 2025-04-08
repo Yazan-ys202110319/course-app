@@ -29,7 +29,7 @@ export default function Home() {
                   Learn, Grow, Succeed
                 </h1>
                 <p className="max-w-[600px] text-gray-500 md:text-xl dark:text-gray-400">
-                  Welcome to Qatar University's Learning Platform. Discover courses, connect with instructors, and expand your knowledge.
+                  Welcome to Qatar University&apos;s Learning Platform. Discover courses, connect with instructors, and expand your knowledge.
                 </p>
                 <div className="flex flex-col gap-2 min-[400px]:flex-row">
                   <Link href="/auth/signin">
@@ -111,17 +111,17 @@ export default function Home() {
               <div className="space-y-4">
                 <h3 className="text-xl font-bold">Overview</h3>
                 <p className="text-gray-600 leading-relaxed">
-                  Qatar University (QU), established in 1977, is Qatar's leading higher education institution, 
+                  Qatar University (QU), established in 1977, is Qatar&apos;s leading higher education institution, 
                   known for academic and research excellence. It offers high-quality education aligned with 
                   international standards, earning multiple accreditations. QU comprises 12 colleges, including 
-                  Arts and Sciences, Business, Engineering, Medicine, and Law, and provides 51 bachelor's and 
-                  53 master's programs tailored to national needs.
+                  Arts and Sciences, Business, Engineering, Medicine, and Law, and provides 51 bachelor&apos;s and 
+                  53 master&apos;s programs tailored to national needs.
                 </p>
                 <p className="text-gray-600 leading-relaxed">
                   Research is a key focus, supported by a state-of-the-art Research Complex and 18 research centers, 
                   with over 500 projects in 130+ countries. The university emphasizes community engagement, 
                   student development, and leadership while fostering partnerships with industry, government, 
-                  and academia to drive Qatar's economic and social progress.
+                  and academia to drive Qatar&apos;s economic and social progress.
                 </p>
               </div>
               
@@ -140,7 +140,7 @@ export default function Home() {
                   <iframe 
                     width="100%" 
                     height="315" 
-                    src="https://www.youtube.com/embed/wBoVS5hlhHc?si=hEq-KpwRcfECzVcK" 
+                    src="https://www.youtube.com/embed/wBoVS5hlhHc?si=hEq-KpwRcfECzVcK4" 
                     title="Qatar University Video" 
                     frameBorder="0" 
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
